@@ -1,0 +1,10 @@
+*.snm
+*.out
+*.nav
+*.fdb_latexmk
+*.fls
+*.aux
+*.log
+*.toc
+
+.DS_Store
